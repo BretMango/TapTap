@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Tap, Tap</string>
-    <string name="accessibility_service_description">TapTap 无障碍服务\n\n<b>重要提示：应用不会收集您的数据。此服务仅用于识别手势活动，并提供与设备的互动支持。</b></string>
+    <string name="app_name">轻敲</string>
+    <string name="accessibility_service_description">轻敲 无障碍服务\n\n<b>重要提示：应用不会收集您的数据。此服务仅用于识别手势活动，并提供与设备的互动支持。</b></string>
     <string name="toast_no_action_selected">没有选择任何动作</string>
     <string name="launch_accessibility">激活无障碍服务</string>
     <string name="setting_gesture">手势</string>
@@ -88,7 +88,7 @@
     <string name="accessibility_info_off_desc">手势将无法工作。点击以启用</string>
     <string name="accessibility_info_on">无障碍服务已启用</string>
     <string name="accessibility_info_on_desc">如果您想禁用手势，点击以禁用服务</string>
-    <string name="accessibility_info_toast">在无障碍服务列表中选择「Tap, Tap」启用它，然后返回应用以继续</string>
+    <string name="accessibility_info_toast">在无障碍服务列表中选择「轻敲」启用它，然后返回应用以继续</string>
     <string name="menu_alpha">此应用处于 Alpha 阶段。点击了解详情。</string>
     <string name="bs_alpha">这款应用程序还处于早期开发阶段，目前已经发布了 Alpha 版本，可在众多设备上进行测试。如果您遇到了 bug，请在 GitHub 上提交一个 issue。如果您希望能有一些新功能，可以在 XDA 上的帖子里告诉我，或者同样在 GitHub 上提交。\n\n记得打开 XDA 看看，不管是看 Labs 还是浏览帖子。当有新版本释出时，它们会同步被更新。\n\n感谢您在开发过程中的耐心等候。</string>
     <string name="bs_alpha_title">Alpha</string>
@@ -123,7 +123,7 @@
     <string name="action_launch_shortcut_desc">启动一个快捷方式，例如绿色守护的「立即休眠」</string>
     <string name="action_launch_shortcut_desc_formattable">启动 %1s 的快捷方式</string>
     <string name="action_launch_shortcut_toast">暂不支持此快捷方式</string>
-    <string name="call_phone_permission_toast">您必须授予 Tap, Tap「电话权限」后才能使用此快捷方式动作，在设备权限设置中授予。</string>
+    <string name="call_phone_permission_toast">您必须授予 轻敲「电话权限」后才能使用此快捷方式动作，在设备权限设置中授予。</string>
     <string name="action_split_screen">分屏</string>
     <string name="action_split_screen_desc">将当前应用以分屏状态运行（在主屏幕上时不会生效）</string>
     <string name="action_reachability">启动触达</string>
